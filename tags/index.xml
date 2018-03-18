@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Michael Campfield | Mythre</title>
+    <link>https://campfield.github.io/tags.html</link>
+    <description>Recent content in Tags on Michael Campfield | Mythre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Michael Campfield</copyright>
+    <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://campfield.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Larp</title>
+      <link>https://campfield.github.io/tags/larp.html</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/tags/larp.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mythre</title>
+      <link>https://campfield.github.io/tags/mythre.html</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/tags/mythre.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

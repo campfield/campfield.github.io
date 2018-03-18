@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Michael Campfield | Mythre</title>
+    <link>https://campfield.github.io/home.html</link>
+    <description>Recent content in Homes on Michael Campfield | Mythre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Michael Campfield</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://campfield.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://campfield.github.io/home/about.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/home/about.html</guid>
+      <description>Professional Biography For over fifteen years I&amp;rsquo;ve worked as a professional computer scientist, with a focus on Linux systems administration. In 2015 I began working with the U.S. Department of Energy&amp;rsquo;s (DOE) Oak Ridge National Lab (ORNL). Currently I&amp;rsquo;m part of the Research and Development group supporting the Neutron Sciences Directorate&amp;rsquo;s research programs at the Spallation Neutron Source and High Flux Isotope Reactor. While at ORNL I&amp;rsquo;ve also been a member of the Systems Operations group at the National Center for Computational Sciences (NCCS) home of the Titan and upcoming Summit supercomputers.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://campfield.github.io/home/talks.html</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/home/talks.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

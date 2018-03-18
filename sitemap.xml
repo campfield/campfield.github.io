@@ -92,8 +92,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/home.html.html</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <loc>https://campfield.github.io/categories.html</loc>
       <priority>0</priority>
     </url>
     
@@ -101,7 +100,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags/larp.html.html</loc>
+      <loc>https://campfield.github.io/tags/larp.html</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -110,7 +109,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/index.html</loc>
+      <loc>https://campfield.github.io/</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -119,7 +118,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags/mythre.html.html</loc>
+      <loc>https://campfield.github.io/tags/mythre.html</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -128,7 +127,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/personal.html.html</loc>
+      <loc>https://campfield.github.io/personal.html</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -137,7 +136,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/project.html.html</loc>
+      <loc>https://campfield.github.io/project.html</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -146,7 +145,16 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags.html.html</loc>
+      <loc>https://campfield.github.io/publication_types.html</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/tags.html</loc>
+      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
