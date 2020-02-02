@@ -6,7 +6,7 @@
     <description>Recent content in Michael Campfield | Mythre on Michael Campfield | Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2020 Michael Campfield</copyright>
     <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -27,8 +27,7 @@ Game design&lt;br/&gt;
 Beekeeping&lt;br/&gt;
 Storytelling and writing&lt;br/&gt;
 Camping / hiking&lt;br/&gt;
-Adventure / point-and-click computer games&lt;br/&gt;
-Slow cooking&lt;br/&gt;&lt;/p&gt;
+Adventure / point-and-click computer games&lt;br/&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -88,6 +87,27 @@ VA, Roanoke: &lt;a href=&#34;http://www.vawonjukorean.com/&#34;&gt;Wanju Korean 
     </item>
     
     <item>
+      <title>Designing Configuration Management for Friends and Enemies.</title>
+      <link>https://campfield.github.io/talk/designing_conf_mgmt.html</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/talk/designing_conf_mgmt.html</guid>
+      <description>&lt;p&gt;The concept of unified configuration management is both a dream but can be both a
+technical and social nightmare.  A myriad of factors play into a system that can usable
+across teams and organizations.  Conflicting project goals, gated release schedules, social dynamics,
+source design, upstream packages, security requirements, and governing bodies are all potential
+blockers to large scale integrations and code reuse.&lt;/p&gt;
+
+&lt;p&gt;Fairchilde is a project engineered to provide both a unified configuration management codebase (Puppet)
+that encourages code reuse, skill sharing, and multiple levels of oversight and control.
+It accomplishes this by using a minimalistic framework centered on the concept of different layers of &amp;lsquo;jails&amp;rsquo;
+which isolate teams and projects.  This allows for seamless integration with the global codebase in a
+isolated configuration source jail.  Code can remain in their jail, reference and contribute to other project&amp;rsquo;s source
+code, all while preventing a change in one project from impacting any other project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Mythre LARP</title>
       <link>https://campfield.github.io/project/mythre_larp.html</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
@@ -97,9 +117,25 @@ VA, Roanoke: &lt;a href=&#34;http://www.vawonjukorean.com/&#34;&gt;Wanju Korean 
 
 &lt;p&gt;Mythre is a basic &lt;a href=&#34;https://en.wikipedia.org/wiki/Live_action_role-playing_game&#34; target=&#34;_blank&#34;&gt;LARP&lt;/a&gt; designed for simplicity and originally targeted towards younger players (ages 10 - 17). At its core, Mythre is for live-action, dramatic storytelling where the rules are there to help build upon a character but not get in the way of the players actually telling their stories.&lt;/p&gt;
 
-&lt;p&gt;Mythre itself consists of the basic rules covering character&amp;rsquo;s enchanted races and their special in-game abilities, from magic to combat. There isn&amp;rsquo;t a lot of front and back-matter that is present in other LARP handbooks because this isn&amp;rsquo;t a game designed for 50+ players who need every possible in and out-of-game condition covered.  It is similar to other minimalistic games such as &lt;a href=&#34;http://www.larping.org/larps/listing/capes-superhero-larp&#34; target=&#34;_blank&#34;&gt;CAPES! Superhero LARP&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mythre itself consists of the basic rules covering character&amp;rsquo;s enchanted races and their special in-game abilities, from magic to combat. There isn&amp;rsquo;t a lot of front and back-matter that is present in other LARP handbooks because this isn&amp;rsquo;t a game designed for 50+ players who need every possible in and out-of-game condition covered.&lt;/p&gt;
 
 &lt;p&gt;The current PDF can be downloaded &lt;a href=&#34;https://github.com/campfield/mythre_larp/blob/master/mythre_handbook.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>mimeograph</title>
+      <link>https://campfield.github.io/project/mimeograph.html</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/project/mimeograph.html</guid>
+      <description>&lt;p&gt;mimeograph is an over engineered and poorly documented configuration engine for efficiently managing complex and diverse &lt;a href=&#34;https://www.hashicorp.com/&#34; target=&#34;_blank&#34;&gt;HashiCorp&lt;/a&gt; &lt;a href=&#34;https://www.vagrantup.com/&#34; target=&#34;_blank&#34;&gt;Vagrant&lt;/a&gt; environments.&lt;/p&gt;
+
+&lt;p&gt;At its core mimeograph allows for large portions of Vagrant and instance configurations (e.g., VMs and containers) to be managed in YAML.  Additionally, items such as default values for multiple instances, Vagrant Providers, and Plugins can be similarity managed.&lt;/p&gt;
+
+&lt;p&gt;mimeograph configurations are easy to understand, quick to deploy, provide for encapsulated environments, and remove the requirements for detailed understanding of Vagrant configuration files or the Ruby programming language.&lt;/p&gt;
+
+&lt;p&gt;More information can be found on &lt;a href=&#34;https://github.com/campfield/mimeograph&#34; target=&#34;_blank&#34;&gt;my GitHub page&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

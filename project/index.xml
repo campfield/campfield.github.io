@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Michael Campfield | Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2020 Michael Campfield</copyright>
     <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/project/index.xml" rel="self" type="application/rss+xml" />
@@ -20,6 +20,17 @@
       <guid>https://campfield.github.io/project/mythre_larp.html</guid>
       <description>Mythre is a basic LARP designed for simplicity and originally targeted towards younger players (ages 10 - 17). At its core, Mythre is for live-action, dramatic storytelling where the rules are there to help build upon a character but not get in the way of the players actually telling their stories.
 Mythre itself consists of the basic rules covering character&amp;rsquo;s enchanted races and their special in-game abilities, from magic to combat.</description>
+    </item>
+    
+    <item>
+      <title>mimeograph</title>
+      <link>https://campfield.github.io/project/mimeograph.html</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/project/mimeograph.html</guid>
+      <description>mimeograph is an over engineered and poorly documented configuration engine for efficiently managing complex and diverse HashiCorp Vagrant environments.
+At its core mimeograph allows for large portions of Vagrant and instance configurations (e.g., VMs and containers) to be managed in YAML. Additionally, items such as default values for multiple instances, Vagrant Providers, and Plugins can be similarity managed.
+mimeograph configurations are easy to understand, quick to deploy, provide for encapsulated environments, and remove the requirements for detailed understanding of Vagrant configuration files or the Ruby programming language.</description>
     </item>
     
   </channel>

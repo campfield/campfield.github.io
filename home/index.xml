@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Michael Campfield | Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2020 Michael Campfield</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://campfield.github.io/home/about.html</guid>
-      <description>Professional Biography For over fifteen years I&amp;rsquo;ve worked as a professional computer scientist, with a focus on Linux systems administration. In 2015 I began working with the U.S. Department of Energy&amp;rsquo;s (DOE) Oak Ridge National Lab (ORNL). Currently I&amp;rsquo;m part of the Research and Development group supporting the Neutron Sciences Directorate&amp;rsquo;s research programs at the Spallation Neutron Source and High Flux Isotope Reactor. While at ORNL I&amp;rsquo;ve also been a member of the Systems Operations group at the National Center for Computational Sciences (NCCS) home of the Titan and upcoming Summit supercomputers.</description>
+      <description>Professional Biography For nearly twenty years I&amp;rsquo;ve worked as a professional computer scientist with a focus on Linux systems administration. I&amp;rsquo;m engaged as a Principal System Administrator with SAIC (Science Applications International Corporation). My teammates and I have become key members of the continuing efforts to develop advanced cloud and on-premises solutions utilizing the latest technologies and integration pipelines.
+Historically, my focus has been on infrastructure systems and development of distribution-agnostic configuration management solutions for Linux using Puppet, virtualization, containers, and open-source technologies.</description>
     </item>
     
     <item>

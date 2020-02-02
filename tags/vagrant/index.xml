@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vagrant on Michael Campfield | Mythre</title>
+    <link>https://campfield.github.io/tags/vagrant.html</link>
+    <description>Recent content in Vagrant on Michael Campfield | Mythre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2020 Michael Campfield</copyright>
+    <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://campfield.github.io/tags/vagrant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>mimeograph</title>
+      <link>https://campfield.github.io/project/mimeograph.html</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/project/mimeograph.html</guid>
+      <description>mimeograph is an over engineered and poorly documented configuration engine for efficiently managing complex and diverse HashiCorp Vagrant environments.
+At its core mimeograph allows for large portions of Vagrant and instance configurations (e.g., VMs and containers) to be managed in YAML. Additionally, items such as default values for multiple instances, Vagrant Providers, and Plugins can be similarity managed.
+mimeograph configurations are easy to understand, quick to deploy, provide for encapsulated environments, and remove the requirements for detailed understanding of Vagrant configuration files or the Ruby programming language.</description>
+    </item>
+    
+  </channel>
+</rss>

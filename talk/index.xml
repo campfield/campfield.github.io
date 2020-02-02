@@ -6,11 +6,21 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Michael Campfield | Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2020 Michael Campfield</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Designing Configuration Management for Friends and Enemies.</title>
+      <link>https://campfield.github.io/talk/designing_conf_mgmt.html</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/talk/designing_conf_mgmt.html</guid>
+      <description>The concept of unified configuration management is both a dream but can be both a technical and social nightmare. A myriad of factors play into a system that can usable across teams and organizations. Conflicting project goals, gated release schedules, social dynamics, source design, upstream packages, security requirements, and governing bodies are all potential blockers to large scale integrations and code reuse.
+Fairchilde is a project engineered to provide both a unified configuration management codebase (Puppet) that encourages code reuse, skill sharing, and multiple levels of oversight and control.</description>
+    </item>
     
     <item>
       <title>Resume Writing - From ACK to discard stack: How I learned to stop worrying and hate the resume.</title>
