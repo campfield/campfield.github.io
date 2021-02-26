@@ -6,11 +6,21 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Michael Campfield | Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2021 Michael Campfield</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tech-ronomicon: Keeping documentation that won&#39;t drive you mad.</title>
+      <link>https://campfield.github.io/talk/techronomicon.html</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/talk/techronomicon.html</guid>
+      <description>&amp;ldquo;They just walked out the door and left us with no idea how everything works!&amp;rdquo; Institutional knowledge always exists but relying on it will chip away at your organization&amp;rsquo;s sanity. Some people call it built-in job security. What it really means is: &amp;ldquo;Panicked calls from operations about a NetApp failure while I&amp;rsquo;m at Disney World.&amp;rdquo;
+If your group jokes about how doomed the department would be if some person actually left or wonder exactly why there are binders about Windows NT 4.</description>
+    </item>
     
     <item>
       <title>Designing Configuration Management for Friends and Enemies.</title>

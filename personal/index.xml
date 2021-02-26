@@ -6,11 +6,28 @@
     <description>Recent content in Personals on Michael Campfield | Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Michael Campfield</copyright>
-    <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2021 Michael Campfield</copyright>
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/personal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://campfield.github.io/personal/libraries.html</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/personal/libraries.html</guid>
+      <description>Some of the beautiful libraries I&amp;rsquo;ve visited:
+IE, Dublin: Old College (Long Room), Trinity College, Dublin 
+MA, Boston: Boston College, Bapst Library 
+MA, Boston: Boston Public Library, Central branch 
+MD, Baltimore: George Peabody Library 
+MO, St. Louis: St. Louis Central Library (Carnegie)
+TN, Harriman: Harriman Public Library(Carnegie)
+TN, Nashville: Nashville East Brach Library(Carnegie)
+TN, Nashville: Nashville Main Library</description>
+    </item>
     
     <item>
       <title></title>
@@ -20,21 +37,6 @@
       <guid>https://campfield.github.io/personal/about.html</guid>
       <description>Some Personal Interests:
 Slide rules and mechanical calculators Tabletop games Historic libraries Game design Beekeeping Storytelling and writing Camping / hiking Adventure / point-and-click computer games</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://campfield.github.io/personal/libraries.html</link>
-      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/personal/libraries.html</guid>
-      <description>Some of the beautiful libraries I&amp;rsquo;ve visited:
-IE, Dublin: Long Room, Trinity College, Dublin 
-MA, Boston: Boston College, Bapst Library 
-MA, Boston: Boston Public Library, Central branch 
-MD, Baltimore: George Peabody Library 
-MO, St. Louis: St. Louis Central Library 
-TN, Nashville: Nashville Main Library</description>
     </item>
     
     <item>

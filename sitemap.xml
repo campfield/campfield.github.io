@@ -4,15 +4,15 @@
     
     
     <url>
-      <loc>https://campfield.github.io/personal/about.html</loc>
-      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <loc>https://campfield.github.io/personal/libraries.html</loc>
+      <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     </url>
     
   
     
     
     <url>
-      <loc>https://campfield.github.io/personal/libraries.html</loc>
+      <loc>https://campfield.github.io/personal/about.html</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
     </url>
     
@@ -30,6 +30,14 @@
     <url>
       <loc>https://campfield.github.io/contact.html</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/talk/techronomicon.html</loc>
+      <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -135,7 +143,7 @@
     
     <url>
       <loc>https://campfield.github.io/</loc>
-      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <lastmod>2021-02-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -171,7 +179,7 @@
     
     <url>
       <loc>https://campfield.github.io/personal.html</loc>
-      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <lastmod>2021-02-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

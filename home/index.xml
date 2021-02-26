@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Michael Campfield | Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2020 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2021 Michael Campfield</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -19,7 +19,7 @@
       
       <guid>https://campfield.github.io/home/about.html</guid>
       <description>Professional Biography For nearly twenty years I&amp;rsquo;ve worked as a professional computer scientist with a focus on Linux systems administration. I&amp;rsquo;m engaged as a Principal System Administrator with SAIC (Science Applications International Corporation). My teammates and I have become key members of the continuing efforts to develop advanced cloud and on-premises solutions utilizing the latest technologies and integration pipelines.
-Historically, my focus has been on infrastructure systems and development of distribution-agnostic configuration management solutions for Linux using Puppet, virtualization, containers, and open-source technologies.</description>
+Historically, my focus has been on infrastructure systems and development of distribution-agnostic configuration management solutions for Linux using Puppet, Ansible, virtualization, containers, the HashiCorp suite, and open-source technologies.</description>
     </item>
     
     <item>
