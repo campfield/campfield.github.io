@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apa7 on Michael Campfield | Mythre</title>
+    <link>https://campfield.github.io/tags/apa7.html</link>
+    <description>Recent content in Apa7 on Michael Campfield | Mythre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2022 Michael Campfield</copyright>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://campfield.github.io/tags/apa7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tanagra</title>
+      <link>https://campfield.github.io/project/tanagra.html</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/project/tanagra.html</guid>
+      <description>tanagra is a bit of personal overengineering (instead of my normal overengineering for other purposes) meant to handle the writing and document organizational needs for my university projects and personal writing needs (go Jags!). This revolves on implementing a standardized hierarchical setup to prevent file sprawl, reduce text duplication and encourage boilerplating, simplify writing patterns, maintain sane configuration options, and easily switch between document formats (e.g., student works and journal articles).</description>
+    </item>
+    
+  </channel>
+</rss>

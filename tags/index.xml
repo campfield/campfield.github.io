@@ -6,11 +6,47 @@
     <description>Recent content in Tags on Michael Campfield | Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Michael Campfield</copyright>
-    <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2022 Michael Campfield</copyright>
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Apa</title>
+      <link>https://campfield.github.io/tags/apa.html</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/tags/apa.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apa7</title>
+      <link>https://campfield.github.io/tags/apa7.html</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/tags/apa7.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bibtex</title>
+      <link>https://campfield.github.io/tags/bibtex.html</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/tags/bibtex.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documents</title>
+      <link>https://campfield.github.io/tags/documents.html</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/tags/documents.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hashicorp</title>
@@ -27,6 +63,15 @@
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
       <guid>https://campfield.github.io/tags/larp.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latex</title>
+      <link>https://campfield.github.io/tags/latex.html</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/tags/latex.html</guid>
       <description></description>
     </item>
     
@@ -51,9 +96,18 @@
     <item>
       <title>Open Source</title>
       <link>https://campfield.github.io/tags/open-source.html</link>
-      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://campfield.github.io/tags/open-source.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanagra</title>
+      <link>https://campfield.github.io/tags/tanagra.html</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/tags/tanagra.html</guid>
       <description></description>
     </item>
     

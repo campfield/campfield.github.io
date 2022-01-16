@@ -6,7 +6,7 @@
     <description>Recent content in Michael Campfield | Mythre on Michael Campfield | Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2021 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2022 Michael Campfield</copyright>
     <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -88,6 +88,18 @@ VA, Roanoke: &lt;a href=&#34;http://www.vawonjukorean.com/&#34;&gt;Wanju Korean 
       
       <guid>https://campfield.github.io/contact.html</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>tanagra</title>
+      <link>https://campfield.github.io/project/tanagra.html</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/project/tanagra.html</guid>
+      <description>&lt;p&gt;tanagra is a bit of personal overengineering (instead of my normal overengineering for other purposes) meant to handle the writing and document organizational needs for my university projects and personal writing needs (go Jags!). This revolves on implementing a standardized hierarchical setup to prevent file sprawl, reduce text duplication and encourage boilerplating, simplify writing patterns, maintain sane configuration options, and easily switch between document formats (e.g., student works and journal articles).&lt;/p&gt;
+
+&lt;p&gt;More information can be found on the project&amp;rsquo;s &lt;a href=&#34;https://github.com/campfield/tanagra&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>

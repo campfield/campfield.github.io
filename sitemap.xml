@@ -36,6 +36,14 @@
     
     
     <url>
+      <loc>https://campfield.github.io/project/tanagra.html</loc>
+      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://campfield.github.io/talk/techronomicon.html</loc>
       <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     </url>
@@ -116,7 +124,43 @@
     
     
     <url>
+      <loc>https://campfield.github.io/tags/apa.html</loc>
+      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/tags/apa7.html</loc>
+      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/tags/bibtex.html</loc>
+      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
       <loc>https://campfield.github.io/categories.html</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/tags/documents.html</loc>
+      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -135,6 +179,15 @@
     <url>
       <loc>https://campfield.github.io/tags/larp.html</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/tags/latex.html</loc>
+      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -170,7 +223,7 @@
     
     <url>
       <loc>https://campfield.github.io/tags/open-source.html</loc>
-      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -188,7 +241,7 @@
     
     <url>
       <loc>https://campfield.github.io/project.html</loc>
-      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -205,7 +258,16 @@
     
     <url>
       <loc>https://campfield.github.io/tags.html</loc>
-      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/tags/tanagra.html</loc>
+      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
