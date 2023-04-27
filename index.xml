@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael Campfield | Mythre on Michael Campfield | Mythre</title>
+    <title>Michael Campfield | Beyond the Mythre on Michael Campfield | Beyond the Mythre</title>
     <link>https://campfield.github.io/</link>
-    <description>Recent content in Michael Campfield | Mythre on Michael Campfield | Mythre</description>
+    <description>Recent content in Michael Campfield | Beyond the Mythre on Michael Campfield | Beyond the Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2023 Michael Campfield</copyright>
     <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://campfield.github.io/personal/libraries.html</link>
+      <link>https://campfield.github.io/personal/libraries/</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/personal/libraries.html</guid>
+      <guid>https://campfield.github.io/personal/libraries/</guid>
       <description>&lt;p&gt;&lt;img style=&#34;float: left;margin-right: 14px;margin-top: 7px;border:3px solid #000000&#34; src=&#34;https://campfield.github.io/img/libraries/long_room_trinity_college_sideimg.jpg&#34;&gt;&lt;/p&gt;
 
-&lt;p&gt;Some of the beautiful libraries I&amp;rsquo;ve visited:&lt;/p&gt;
+&lt;p&gt;Libraries have a beauty all their own transcending woodwork, marble, volumes, and time:&lt;/p&gt;
 
 &lt;p&gt;IE, Dublin: &lt;a href=&#34;https://en.wikipedia.org/wiki/Trinity_College_Library&#34;&gt;Old College (Long Room), Trinity College, Dublin&lt;/a&gt;
 &lt;a href=&#34;https://campfield.github.io/img/libraries/long_room_trinity_college_small.jpg&#34; alt=&#34;Long Room, Trinity College, Dublin&#34;&gt;&lt;i class=&#34;fa fa-camera&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
@@ -44,58 +44,41 @@
     
     <item>
       <title></title>
-      <link>https://campfield.github.io/personal/about.html</link>
-      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      <link>https://campfield.github.io/personal/lis/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/personal/about.html</guid>
-      <description>&lt;p&gt;&lt;img style=&#34;float: left;margin-right: 14px;margin-top: 7px;border:3px solid #000000;&#34; src=&#34;https://campfield.github.io/img/ba149cf54389f3a14f2bba97e0d69c60399fb05a52eb1a4091de8e9f516c9cf9.jpg&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Some Personal Interests&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;p&gt;Slide rules and mechanical calculators&lt;br/&gt;
-Tabletop games&lt;br/&gt;
-Historic libraries&lt;br/&gt;
-Game design&lt;br/&gt;
-Beekeeping&lt;br/&gt;
-Storytelling and writing&lt;br/&gt;
-Camping / hiking&lt;br/&gt;
-Adventure / point-and-click computer games&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://campfield.github.io/personal/plcs.html</link>
-      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/personal/plcs.html</guid>
-      <description>&lt;p&gt;Places of Local Color:&lt;br/&gt;&lt;br/&gt;
-GA, Atlanta: &lt;a href=&#34;http://www.eatsonponce.net/&#34;&gt;Eats&lt;/a&gt;, &lt;a href=&#34;http://www.foxbrosbbq.com/&#34;&gt;Fox Brothers BBQ&lt;/a&gt;&lt;br/&gt;
-GA, Tybee Island: &lt;a href=&#34;http://thecrabshack.com/&#34;&gt;The Crab Shack&lt;/a&gt;&lt;br/&gt;
-GR, Cape Sounion: &lt;a href=&#34;https://en.wikipedia.org/wiki/Sounion&#34;&gt;Temple of Poseidon&lt;/a&gt;&lt;br/&gt;
-MD, St. Mary&amp;rsquo;s City: &lt;a href=&#34;http://www.tikibarsolomons.com&#34;&gt;Solomon Island Tiki Bar&lt;/a&gt;&lt;br/&gt;
-NY, Vestal: &lt;a href=&#34;http://www.spiedieandribpit.com/&#34;&gt;Lupo&amp;rsquo;s Spiedie and Rib Pit&lt;/a&gt;,&lt;a href=&#34;https://www.facebook.com/Vestal-Bakery-Deli-166544783377707/&#34;&gt;Vestal Bakery and Deli&lt;/a&gt; (Perfect white sheet pizza with tomatoes &amp;amp; onions).&lt;br/&gt;
-TN, Knoxville: &lt;a href=&#34;http://www.archersbbq.com/&#34;&gt;Archers BBQ&lt;/a&gt;, M&amp;amp;M BBQ, &lt;a href=&#34;http://northshore.thecasualpint.com&#34;&gt;The Casual Pint: Northshore&lt;/a&gt;&lt;br/&gt;
-TN, Oak Ridge: &lt;a href=&#34;http://www.tripadvisor.com/Restaurant_Review-g55242-d2443363-Reviews-Razzleberries-Oak_Ridge_Tennessee.html&#34;&gt;Razzleberries&lt;/a&gt;, &lt;a href=&#34;http://www.theotheronediner.com/&#34;&gt;The Other One&lt;/a&gt;&lt;br/&gt;
-VA, Roanoke: &lt;a href=&#34;http://www.vawonjukorean.com/&#34;&gt;Wanju Korean Restaurant&lt;/a&gt;&lt;br/&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://campfield.github.io/contact.html</link>
-      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/contact.html</guid>
+      <guid>https://campfield.github.io/personal/lis/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>https://campfield.github.io/contact/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stormy Skies Ahead: Batten Down the Hatches with On-Prem.</title>
+      <link>https://campfield.github.io/talk/batten_down/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/talk/batten_down/</guid>
+      <description>&lt;p&gt;The cloud is a game changer, but beyond that well-worn statement, when
+is it better for you and your customers to also include a half-rack of
+systems in your office broom closet and the DevOps platform on a PC
+under your developers&amp;rsquo; desks?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>tanagra</title>
-      <link>https://campfield.github.io/project/tanagra.html</link>
+      <link>https://campfield.github.io/project/tanagra/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/project/tanagra.html</guid>
+      <guid>https://campfield.github.io/project/tanagra/</guid>
       <description>&lt;p&gt;tanagra is a bit of personal overengineering (instead of my normal overengineering for other purposes) meant to handle the writing and document organizational needs for my university projects and personal writing needs (go Jags!). This revolves on implementing a standardized hierarchical setup to prevent file sprawl, reduce text duplication and encourage boilerplating, simplify writing patterns, maintain sane configuration options, and easily switch between document formats (e.g., student works and journal articles).&lt;/p&gt;
 
 &lt;p&gt;More information can be found on the project&amp;rsquo;s &lt;a href=&#34;https://github.com/campfield/tanagra&#34; target=&#34;_blank&#34;&gt;GitHub page&lt;/a&gt;.&lt;/p&gt;
@@ -104,10 +87,10 @@ VA, Roanoke: &lt;a href=&#34;http://www.vawonjukorean.com/&#34;&gt;Wanju Korean 
     
     <item>
       <title>Tech-ronomicon: Keeping documentation that won&#39;t drive you mad.</title>
-      <link>https://campfield.github.io/talk/techronomicon.html</link>
+      <link>https://campfield.github.io/talk/techronomicon/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/talk/techronomicon.html</guid>
+      <guid>https://campfield.github.io/talk/techronomicon/</guid>
       <description>&lt;p&gt;&amp;ldquo;They just walked out the door and left us with no idea how everything works!&amp;rdquo;  Institutional knowledge always exists but relying on it will chip away at your organization&amp;rsquo;s sanity.  Some people call it built-in job security.  What it really means is: &amp;ldquo;Panicked calls from operations about a NetApp failure while I&amp;rsquo;m at Disney World.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;If your group jokes about how doomed the department would be if some person actually left or wonder exactly why there are binders about Windows NT 4.0 on the office bookshelf - this talk will be perfect for you.&lt;/p&gt;
@@ -118,15 +101,15 @@ VA, Roanoke: &lt;a href=&#34;http://www.vawonjukorean.com/&#34;&gt;Wanju Korean 
     
     <item>
       <title>Designing Configuration Management for Friends and Enemies.</title>
-      <link>https://campfield.github.io/talk/designing_conf_mgmt.html</link>
+      <link>https://campfield.github.io/talk/designing_conf_mgmt/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/talk/designing_conf_mgmt.html</guid>
+      <guid>https://campfield.github.io/talk/designing_conf_mgmt/</guid>
       <description>&lt;p&gt;The concept of unified configuration management is both a dream but can be both a
 technical and social nightmare.  A myriad of factors play into a system that can usable
 across teams and organizations.  Conflicting project goals, gated release schedules, social dynamics,
 source design, upstream packages, security requirements, and governing bodies are all potential
-blockers to large scale integrations and code reuse.&lt;/p&gt;
+blockers to large scale integration and code reuse.&lt;/p&gt;
 
 &lt;p&gt;Fairchilde is a project engineered to provide both a unified configuration management codebase (Puppet)
 that encourages code reuse, skill sharing, and multiple levels of oversight and control.
@@ -138,14 +121,777 @@ code, all while preventing a change in one project from impacting any other proj
     </item>
     
     <item>
-      <title>Mythre LARP</title>
-      <link>https://campfield.github.io/project/mythre_larp.html</link>
+      <title>City of Heroes and City of Villains Zone Transit Guide</title>
+      <link>https://campfield.github.io/project/cox_travel/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/project/mythre_larp.html</guid>
-      <description>&lt;p&gt;Mythre is a basic &lt;a href=&#34;https://en.wikipedia.org/wiki/Live_action_role-playing_game&#34; target=&#34;_blank&#34;&gt;LARP&lt;/a&gt; designed for simplicity and originally targeted towards younger players (ages 10 - 17). At its core, Mythre is for live-action, dramatic storytelling where the rules are there to help build upon a character but not get in the way of the players actually telling their stories.&lt;/p&gt;
+      <guid>https://campfield.github.io/project/cox_travel/</guid>
+      <description>
 
-&lt;p&gt;Mythre itself consists of the basic rules covering character&amp;rsquo;s enchanted races and their special in-game abilities, from magic to combat. There isn&amp;rsquo;t a lot of front and back-matter that is present in other LARP handbooks because this isn&amp;rsquo;t a game designed for 50+ players who need every possible in and out-of-game condition covered.&lt;/p&gt;
+&lt;p&gt;This document is a guide to the &lt;a href=&#34;https://hcwiki.cityofheroes.dev/&#34; target=&#34;_blank&#34;&gt;City of Heroes / Villains&lt;/a&gt; MMORPG &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Zone_Overview&#34; target=&#34;_blank&#34;&gt;Zone-to-Zone&lt;/a&gt; travel methods for the &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Main_Page&#34; target=&#34;_blank&#34;&gt;Homecoming&lt;/a&gt; and Homecoming-like servers.  The PDF version can be downloaded from [&lt;a href=&#34;https://github.com/campfield/cox_travel&#34; target=&#34;_blank&#34;&gt;https://github.com/campfield/cox_travel&lt;/a&gt;].&lt;/p&gt;
+
+&lt;h2 id=&#34;methods&#34;&gt;Methods&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#long-range-teleporter&#34;&gt;Long Range Teleporter&lt;/a&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#obtaining-the-power&#34;&gt;Obtaining the Power&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#zone-connections-in-located-in-each-zone&#34;&gt;In-Zone &amp;ldquo;Physical&amp;rdquo; Connections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#looking-for-group (LFG)&#34;&gt;Looking for Group (LFG)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#tunnel-system&#34;&gt;Tunnel System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;notes&#34;&gt;Notes:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Characters with Vigilante or Rogue alignments have access to both Paragon City (Hero/Blue) and Rogue Isles (Villain/Red) Zones.  Non-storyline changes to alignments are available via the &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Null_the_Gull&#34; target=&#34;_blank&#34;&gt;Null the Gull&lt;/a&gt; NPC located in &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Pocket_D&#34; target=&#34;_blank&#34;&gt;Pocket D&lt;/a&gt;.  Characters with Hero or Villian alignments will be restricted to their specific zones, co-op, and PvP zones (listed later).&lt;/li&gt;
+&lt;li&gt;Access to the Midnighter&amp;rsquo;s Club (and thus Cimerora along with additional Zones detailed below) is available via two methods.  The first is a storyline-based and is completed through the &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Montague_Castanella#Story_Arc&#34; target=&#34;_blank&#34;&gt;Montague Castanella story arc&lt;/a&gt; which is available to characters after level 10.  The alternate method is to travel to the &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Night_Ward&#34; target=&#34;_blank&#34;&gt;Night Ward&lt;/a&gt; Zone and enter the mansion at map location [1800, 110, -2420], no other actions required.&lt;/li&gt;
+&lt;li&gt;Permanent access to the &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Ouroboros&#34; target=&#34;_blank&#34;&gt;Ouroboros&lt;/a&gt; Zone is granted the first time a character enters the Ouroborous Zone.  Frequently this initial entrance is made by clicking on a portal created by another character.  Player-initated portals are semi-frequent in Atlas Park near the Ms. Liberty NPC.  Helpful players will often respond to Ouroborous portal requests when they are made in the Broadcast channel.&lt;/li&gt;
+&lt;li&gt;Studio 55 is a lesser known Praetoria equivalent to Pocket D and the two share a direct link.  The Pocket D to Studio 55 portal is located behind large ramp leading to the &amp;ldquo;stargate&amp;rdquo; on the blue side of Pocket D.  Outside of the TUNNEL system this can be the easiest way to travel to Praetoria.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;long-range-teleporter&#34;&gt;Long Range Teleporter&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Hero_Accolade_Powers#Long_Range_Teleporter&#34; target=&#34;_blank&#34;&gt;Long Range Teleporter&lt;/a&gt; (LRT) is a standard travel feature of the City of Heroes environment with a large range of instant travel to Zones with a &lt;em&gt;10 minute cooltown&lt;/em&gt; (time until available after use). The power allows access to the default areas of Echo Plaza, the Character&amp;rsquo;s Supergroup Base, and any Supergroup Base using a known Passcode.  Once this power is obtained new Zones can be added to the available destination list by collecting at least one Exploration Badge in the desired Zone.&lt;/p&gt;
+
+&lt;p&gt;Any of the following methods will award the LRT power:&lt;/p&gt;
+
+&lt;h3 id=&#34;obtaining-the-power&#34;&gt;Obtaining the Power&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Collect 8 exploration badges in a single Zone.  King&amp;rsquo;s Row is prefered by the author but a jetpack or flight power is stronly suggested to deal with multiple badges being in elevated locations.
+
+&lt;ul&gt;
+&lt;li&gt;Installing the &lt;a href=&#34;https://forums.homecomingservers.com/topic/3523-vidiotmaps-for-issue-24-and-beyond/&#34; target=&#34;_blank&#34;&gt;Vidiotmaps&lt;/a&gt; add-on will overlay exploration badge locations in the character&amp;rsquo;s Map (the add-on will also add other information to Maps such as level ranges within Zones and MOB type locations).&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Veteran_Reward_Powers#Reveal&#34; target=&#34;_blank&#34;&gt;Reveal&lt;/a&gt; power available from a &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/P2W_Vendor&#34; target=&#34;_blank&#34;&gt;P2W Vendor&lt;/a&gt; improves the Vidiotmaps add-on readability by removing the &amp;ldquo;Fog of War.&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Spending 1 hour in Pocket D obtaining the &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Pocket_D_VIP_Gold_Club_Member_Badge&#34; target=&#34;_blank&#34;&gt;Pocket D VIP Gold Club Member&lt;/a&gt; badge.&lt;/li&gt;
+&lt;li&gt;The base LRT power can be directly purchased a P2W Vendor.  However, using this method still requires gaining exploration badges in each Zone to add those destinations to the power.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tunnel-connections&#34;&gt;TUNNEL Connections&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/TUNNEL_System&#34; target=&#34;_blank&#34;&gt;TUNNEL System&lt;/a&gt; provides portal-based transport between Zones including &amp;lsquo;less common&amp;rsquo; destinations.  Visually, the entrance portals appear as vertically aligned Supergroup portals with alternate color schemes and effects.  Available destinations depend on the character&amp;rsquo;s current Zone.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Zone&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Paragon Zones&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Rogue Zones&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Atlas Park&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Cap Au Diable&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Dark Astoria&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Echo Plaza&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Firebase Zulu&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;First Ward&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Founders&amp;rsquo; Falls&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Grandville&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Imperial City&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Mercy Island&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Night Ward&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Nerva Archipelago&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Peregrine Island&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Talos Island&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Underground Imperial&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;X&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;in-zone-physical-connections&#34;&gt;In-Zone &amp;ldquo;Physical&amp;rdquo; Connections&lt;/h2&gt;
+
+&lt;p&gt;These are the standard connections between Zones where a character clicks a doorway, passes through a security gate, enters a boat or submarine, etc.&lt;/p&gt;
+
+&lt;h3 id=&#34;notes-1&#34;&gt;Notes:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Two entries, (The) Crucible and Ft. Trident, have two entry points (LRT and a Zone) but multiple exit points to Task / Strike Force NPC.  This is the same effect as using the LFG system detailed below.
+
+&lt;ul&gt;
+&lt;li&gt;The Cruicble exits to Cap Au Diable, Grandville, Sharkhead Isle, and St. Martial.&lt;/li&gt;
+&lt;li&gt;Ft. Trident exits to  Brickstown, Founders Falls, Independence Port, Skyway City, Steel Canyon, and Talos Island.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;key&#34;&gt;Key:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Items without &lt;strong&gt;Red&lt;/strong&gt; or &lt;strong&gt;H/V&lt;/strong&gt; default to Paragon City (Hero/Blue).&lt;/li&gt;
+&lt;li&gt;Items labeled &lt;strong&gt;Red&lt;/strong&gt; are Zones specific to Rogue Isles (Villain/Red).&lt;/li&gt;
+&lt;li&gt;Items labeled &lt;strong&gt;H/V&lt;/strong&gt; are Zones accessible by characters of any alignment.&lt;/li&gt;
+&lt;li&gt;Items labeled &lt;strong&gt;NC&lt;/strong&gt; are non-combat Zones.&lt;/li&gt;
+&lt;li&gt;Items labeled with &lt;strong&gt;PvP&lt;/strong&gt; are Player vs. Player Zones accessible by characters of any alignment.&lt;/li&gt;
+&lt;li&gt;Items labeled with &lt;strong&gt;SE&lt;/strong&gt; are seasonal event Zones and are available on limited basis.&lt;/li&gt;
+&lt;li&gt;Items labeled &lt;strong&gt;TO&lt;/strong&gt; are themed overlays of existing Zones with no regular features (e.g., trainers, missions, and tranit lines).&lt;/li&gt;
+&lt;li&gt;Non-PvP Rogue Isles Zones have direct interconnects to all other Rogue Isles destinations and are labeled as &lt;strong&gt;RIZ&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Zone&lt;/th&gt;
+&lt;th&gt;Connecting Zones&lt;/th&gt;
+&lt;th&gt;Level Range&lt;br&gt; [H/V, PvP, Red, SE, TO]&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Abandoned_Sewer_Network&#34; target=&#34;_blank&#34;&gt;Abandoned Sewer Network&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Sewer Network&lt;/td&gt;
+&lt;td&gt;36 - 40&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/The_Abyss&#34; target=&#34;_blank&#34;&gt;Abyss&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Grandville&lt;br&gt;Independence Port&lt;br&gt;Monster Island&lt;br&gt;Peregrine Island&lt;br&gt;Sharkhead Isle&lt;br&gt;and Kallisti Wharf&lt;/td&gt;
+&lt;td&gt;45 - 50 [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Atlas_Park&#34; target=&#34;_blank&#34;&gt;Atlas Park&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Hollows&lt;br&gt;Perez Park&lt;br&gt;Recluse&amp;rsquo;s Victory&lt;br&gt;Rikti War Zone&lt;br&gt;Skyway City&lt;br&gt;Steel Canyon&lt;br&gt;&lt;/td&gt;
+&lt;td&gt;1 - 6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Bloody_Bay&#34; target=&#34;_blank&#34;&gt;Bloody Bay&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cap Au Diable&lt;br&gt;Skyway City&lt;br&gt;(via Free Fire Zone Transports)&lt;/td&gt;
+&lt;td&gt;15 - 25 [&lt;strong&gt;PvP&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Boomtown&#34; target=&#34;_blank&#34;&gt;Boomtown&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Sewer Network&lt;br&gt;Steel Canyon&lt;/td&gt;
+&lt;td&gt;11 - 19&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Brickstown&#34; target=&#34;_blank&#34;&gt;Brickstown&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Crey&amp;rsquo;s Folly&lt;br&gt;Independence Port&lt;/td&gt;
+&lt;td&gt;30 - 38&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Cap_au_Diable&#34; target=&#34;_blank&#34;&gt;Cap Au Diable&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Bloody Bay&lt;br&gt;Underground Imperial&lt;/td&gt;
+&lt;td&gt;8 - 20 [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Cascade_Archipelago&#34; target=&#34;_blank&#34;&gt;Cascade Archipelago&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chantry&lt;br&gt;Firebase Zulu&lt;/td&gt;
+&lt;td&gt;40 - 44&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/The_Chantry&#34; target=&#34;_blank&#34;&gt;Chantry&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cascade Archipelago&lt;br&gt;Firebase Zulu&lt;br&gt;Storm Palace&lt;/td&gt;
+&lt;td&gt;44 - 47&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Cimerora&#34; target=&#34;_blank&#34;&gt;Cimerora&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Midnighter club&lt;br&gt;(Zone transfer to Croatoa spawns&lt;br&gt;characters near a Midnighter Club)&lt;/td&gt;
+&lt;td&gt;35 - 50 [&lt;strong&gt;H/V&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Crey%27s_Folly&#34; target=&#34;_blank&#34;&gt;Crey&amp;rsquo;s Folly&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Brickstown&lt;br&gt;Rikti War Zone&lt;/td&gt;
+&lt;td&gt;31-39&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Croatoa&#34; target=&#34;_blank&#34;&gt;Croatoa&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Brickstown&lt;br&gt;Founders&amp;rsquo; Falls&lt;br&gt;Independence Port&lt;br&gt;Skyway City&lt;br&gt;Steel Canyon&lt;br&gt;Talos Island&lt;/td&gt;
+&lt;td&gt;25 - 34&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/The_Crucible&#34; target=&#34;_blank&#34;&gt;Crucible&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Mercy Island&lt;/td&gt;
+&lt;td&gt;NC&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Dark_Astoria&#34; target=&#34;_blank&#34;&gt;Dark Astoria&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Talos Island&lt;/td&gt;
+&lt;td&gt;50 - 54&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Echo_Plaza&#34; target=&#34;_blank&#34;&gt;Echo Plaza&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Pocket D (blue-side truck)&lt;/td&gt;
+&lt;td&gt;NC [&lt;strong&gt;H/V&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Echo:_Atlas_Park&#34; target=&#34;_blank&#34;&gt;Echo: Atlas Park&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ouroboros&lt;/td&gt;
+&lt;td&gt;1 - 6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Echo:_Dark_Astoria&#34; target=&#34;_blank&#34;&gt;Echo: Dark Astoria&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ouroboros&lt;/td&gt;
+&lt;td&gt;21 - 29&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Echo:_Faultline&#34; target=&#34;_blank&#34;&gt;Echo: Faultline&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ouroboros&lt;/td&gt;
+&lt;td&gt;15 - 25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Echo:_Galaxy_City&#34; target=&#34;_blank&#34;&gt;Echo: Galaxy City&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ouroboros&lt;/td&gt;
+&lt;td&gt;1 - 6&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Echo:_Rikti_Crash_Site&#34; target=&#34;_blank&#34;&gt;Echo: Rikti Crash Site&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ouroboros&lt;/td&gt;
+&lt;td&gt;40-50&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Eden&#34; target=&#34;_blank&#34;&gt;Eden&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Founders&amp;rsquo; Falls&lt;br&gt;Hive&lt;/td&gt;
+&lt;td&gt;33 - 39&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Faultline&#34; target=&#34;_blank&#34;&gt;Faultline&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Pocket D&lt;br&gt;Skyway City&lt;/td&gt;
+&lt;td&gt;15 - 25&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Firebase_Zulu&#34; target=&#34;_blank&#34;&gt;Firebase Zulu&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cascade Archipelago&lt;br&gt;Chantry&lt;br&gt;Peregrine Island&lt;br&gt;Storm Palace&lt;/td&gt;
+&lt;td&gt;40 - 44&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/First_Ward&#34; target=&#34;_blank&#34;&gt;First Ward&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Night Ward&lt;br&gt;Underground Imperial&lt;/td&gt;
+&lt;td&gt;20 - 30&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Fort_Trident&#34; target=&#34;_blank&#34;&gt;Fort Trident&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Atlas Park&lt;/td&gt;
+&lt;td&gt;NC&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Founders%27_Falls&#34; target=&#34;_blank&#34;&gt;Founders&amp;rsquo; Falls&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Eden&lt;br&gt;Midnighter Club&lt;br&gt;Pocket D&lt;br&gt;Rikti War Zone&lt;br&gt;Talos Island&lt;/td&gt;
+&lt;td&gt;31 - 40&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Grandville&#34; target=&#34;_blank&#34;&gt;Grandville&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Abyss&lt;br&gt;Independence Port&lt;br&gt;Kallisti Wharf&lt;br&gt;Monster Island&lt;br&gt;Peregrine Island&lt;br&gt;Recluse&amp;rsquo;s Victory&lt;br&gt;Rikti War Zone&lt;/td&gt;
+&lt;td&gt;40 - 50 [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Atlas_Park&#34; target=&#34;_blank&#34;&gt;Harvest Festival (Themed Atlas Park)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Pocket D (via Null the Gull)&lt;/td&gt;
+&lt;td&gt;NC [&lt;strong&gt;TO&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/The_Hollows&#34; target=&#34;_blank&#34;&gt;Hollows&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Atlas Park&lt;br&gt;Skyway City&lt;/td&gt;
+&lt;td&gt;5 - 15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/The_Hive&#34; target=&#34;_blank&#34;&gt;Hive&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Eden&lt;/td&gt;
+&lt;td&gt;45 - 50&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Imperial_City&#34; target=&#34;_blank&#34;&gt;Imperial City&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Neutropolis&lt;br&gt;Night Ward [Tunnel]&lt;br&gt;Nova Praetoria&lt;br&gt;Pocket D&lt;br&gt;Underground Imperial&lt;/td&gt;
+&lt;td&gt;9 - 15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Independence_Port&#34; target=&#34;_blank&#34;&gt;Independence Port&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Brickstown&lt;br&gt;Croatoa&lt;br&gt;Founders&amp;rsquo; Falls&lt;br&gt;Kings Row&lt;br&gt;Skyway City&lt;br&gt;Steel Canyon&lt;br&gt;Striga Isle&lt;br&gt;Talos Island&lt;br&gt;Terra Volta&lt;/td&gt;
+&lt;td&gt;20 - 30&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Kings_Row&#34; target=&#34;_blank&#34;&gt;Kings Row&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Independence Port&lt;br&gt;Pocket D&lt;br&gt;Sewer Network&lt;br&gt;Skyway City&lt;br&gt;Warburg&lt;/td&gt;
+&lt;td&gt;5 - 10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Talos_Island&#34; target=&#34;_blank&#34;&gt;Luau (Themed Talos Island)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Pocket D (via Null the Gull)&lt;/td&gt;
+&lt;td&gt;NC [&lt;strong&gt;TO&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Mercy_Island&#34; target=&#34;_blank&#34;&gt;Mercy Island&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;1 - 8 [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Midnighter_Club&#34; target=&#34;_blank&#34;&gt;Midnighter Club&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cap au Diable&lt;br&gt;Cimerora&lt;br&gt;Croatoa&lt;br&gt;Founders&amp;rsquo; Falls&lt;br&gt;Steel Canyon&lt;/td&gt;
+&lt;td&gt;NC&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Monster_Island&#34; target=&#34;_blank&#34;&gt;Monster Island&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Abyss&lt;br&gt;Grandville&lt;br&gt;Independence Port&lt;br&gt;Kallisti Wharf&lt;br&gt;Peregrine Island&lt;br&gt;Sharkhead Isle&lt;/td&gt;
+&lt;td&gt;45 - 50 [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Nerva_Archipelago&#34; target=&#34;_blank&#34;&gt;Nerva Archipelago&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Grandville&lt;br&gt;St. Martial&lt;/td&gt;
+&lt;td&gt;25 - 40 [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Neutropolis&#34; target=&#34;_blank&#34;&gt;Neutropolis&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Imperial City&lt;br&gt;Nova Praetoria&lt;br&gt;Underground Neutropolis&lt;/td&gt;
+&lt;td&gt;15 - 20&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Night_Ward&#34; target=&#34;_blank&#34;&gt;Night Ward&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;First Ward&lt;/td&gt;
+&lt;td&gt;30 - 35&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Nova_Praetoria&#34; target=&#34;_blank&#34;&gt;Nova Praetoria&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Imperial City&lt;br&gt;Underground Nova&lt;/td&gt;
+&lt;td&gt;1 - 9&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Ouroboros&#34; target=&#34;_blank&#34;&gt;Ouroboros&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Atlas Park&lt;br&gt;Cap au Diable&lt;br&gt;Founders&amp;rsquo; Falls&lt;br&gt;Grandville&lt;br&gt;Independence Port&lt;br&gt;Nerva Archipelago&lt;br&gt;Peregrine Island&lt;br&gt;Sharkhead Isle&lt;br&gt;St. Martial&lt;br&gt;Talos Island&lt;br&gt;Echo: Atlas Park&lt;br&gt;Echo: Dark Astoria&lt;br&gt;Echo: Faultline&lt;br&gt;Echo: Galaxy City&lt;br&gt;Echo: Rikti Crash Site&lt;/td&gt;
+&lt;td&gt;NC [&lt;strong&gt;H/V&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Peregrine_Island&#34; target=&#34;_blank&#34;&gt;Peregrine Island&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Firebase Zulu&lt;br&gt;Rikti War Zone&lt;br&gt;Talos Island&lt;/td&gt;
+&lt;td&gt;41 - 50&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Perez_Park&#34; target=&#34;_blank&#34;&gt;Perez Park&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Atlas Park&lt;br&gt;Skyway City&lt;br&gt;Steel Canyon&lt;/td&gt;
+&lt;td&gt;7 - 14&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Pocket_D&#34; target=&#34;_blank&#34;&gt;Pocket D&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Kings Row&lt;br&gt;Faultline&lt;br&gt;Founders&amp;rsquo; Falls&lt;br&gt;Harvest Festival&lt;br&gt;Imperial City&lt;br&gt;Luau (Talos)&lt;br&gt;Port Oakes&lt;br&gt;Sharkhead Isle&lt;br&gt;Ski Chalet&lt;br&gt;Spooky Halloween&lt;br&gt;St. Martial&lt;br&gt;Talos Island&lt;br&gt;Winter Forest&lt;/td&gt;
+&lt;td&gt;NC [&lt;strong&gt;H/V&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Port_Oakes&#34; target=&#34;_blank&#34;&gt;Port Oakes&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cap Au Diable&lt;br&gt;Mercy Island&lt;br&gt;Pocket D&lt;/td&gt;
+&lt;td&gt;7 - 12 [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Recluse&#39;s_Victory&#34; target=&#34;_blank&#34;&gt;Recluse&amp;rsquo;s Victory&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Atlas Park&lt;br&gt;Grandville&lt;/td&gt;
+&lt;td&gt;40 - 50 [&lt;strong&gt;PvP&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Rikti_War_Zone&#34; target=&#34;_blank&#34;&gt;Rikti War Zone&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Atlas Park&lt;br&gt;Cap Au Diable&lt;br&gt;Crey&amp;rsquo;s Folly&lt;br&gt;Founders&amp;rsquo; Falls&lt;br&gt;Grandville&lt;br&gt;Peregrine Island&lt;br&gt;St. Martial&lt;/td&gt;
+&lt;td&gt;35 - 50 [&lt;strong&gt;H/V&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Sewer_Network&#34; target=&#34;_blank&#34;&gt;Sewer Network&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Abandoned Sewer Network&lt;br&gt;Atlas Park&lt;br&gt;Boomtown&lt;br&gt;Kings Row&lt;br&gt;Skyway City&lt;br&gt;Steel Canyon&lt;/td&gt;
+&lt;td&gt;3 - 10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Sharkhead_Isle&#34; target=&#34;_blank&#34;&gt;Sharkhead Isle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Pocket D&lt;br&gt;Siren&amp;rsquo;s Call&lt;/td&gt;
+&lt;td&gt;20 - 30 [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Siren&#39;s_Call&#34; target=&#34;_blank&#34;&gt;Siren&amp;rsquo;s Call&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Sharkhead Isle&lt;br&gt;Steel Canyon&lt;/td&gt;
+&lt;td&gt;20 - 30 [&lt;strong&gt;PvP&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Ski_Chalet&#34; target=&#34;_blank&#34;&gt;Ski Chalet&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Pocket D&lt;/td&gt;
+&lt;td&gt;NC [&lt;strong&gt;H/V&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Skyway_City&#34; target=&#34;_blank&#34;&gt;Skyway City&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Atlas Park&lt;br&gt;Bloody Bay&lt;br&gt;Faultline&lt;br&gt;Hollows&lt;br&gt;Kings Row&lt;br&gt;Perez Park&lt;br&gt;Sewer Network&lt;br&gt;Talos Island&lt;/td&gt;
+&lt;td&gt;10 - 19&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Atlas_Park&#34; target=&#34;_blank&#34;&gt;Spooky Halloween (Themed Atlas Park)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Pocket D (via Null the Gull)&lt;/td&gt;
+&lt;td&gt;NC [&lt;strong&gt;TO&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Steel_Canyon&#34; target=&#34;_blank&#34;&gt;Steel Canyon&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Atlas Park&lt;br&gt;Boomtown&lt;br&gt;Independence Port&lt;br&gt;Perez Park&lt;br&gt;Siren&amp;rsquo;s Call&lt;/td&gt;
+&lt;td&gt;10 - 19&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/St._Martial&#34; target=&#34;_blank&#34;&gt;St. Martial&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Grandville&lt;br&gt;Nerva Archipelago&lt;br&gt;Pocket D&lt;br&gt;Rikti War Zone&lt;/td&gt;
+&lt;td&gt;30 - 40 [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/The_Storm_Palace&#34; target=&#34;_blank&#34;&gt;Storm Palace&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chantry&lt;br&gt;Firebase Zulu&lt;/td&gt;
+&lt;td&gt;48 - 53&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Striga_Isle&#34; target=&#34;_blank&#34;&gt;Striga Isle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Independence Port&lt;br&gt;Talos Island&lt;/td&gt;
+&lt;td&gt;20 - 29&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Talos_Island&#34; target=&#34;_blank&#34;&gt;Talos Island&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Dark Astoria&lt;br&gt;Founders&amp;rsquo; Falls&lt;br&gt;Peregrine Island&lt;br&gt;Pocket D&lt;br&gt;Skyway City&lt;br&gt;Striga Isle&lt;br&gt;Underground Imperial&lt;/td&gt;
+&lt;td&gt;20 - 27&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Terra_Volta&#34; target=&#34;_blank&#34;&gt;Terra Volta&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Independence Port&lt;/td&gt;
+&lt;td&gt;20 - 29&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Tunnels_of_the_Trolls&#34; target=&#34;_blank&#34;&gt;Tunnels of the Trolls&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Hollows&lt;/td&gt;
+&lt;td&gt;12 - 15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Underground_Imperial&#34; target=&#34;_blank&#34;&gt;Underground Imperial&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Cap au Diable&lt;br&gt;First Ward&lt;br&gt;Imperial City&lt;br&gt;Talos Island&lt;br&gt;Underground Neutropolis&lt;br&gt;Underground Nova&lt;/td&gt;
+&lt;td&gt;9 - 15&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Underground_Nova&#34; target=&#34;_blank&#34;&gt;Underground Nova&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Nova Praetoria&lt;br&gt;Underground Imperial&lt;/td&gt;
+&lt;td&gt;1 - 10&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Warburg&#34; target=&#34;_blank&#34;&gt;Warburg&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;King&amp;rsquo;s Row&lt;br&gt;St. Martial&lt;/td&gt;
+&lt;td&gt;30 - 38 [&lt;strong&gt;PvP&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Winter_Forest&#34; target=&#34;_blank&#34;&gt;Winter Forest&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ski Chalet area (via Pocket D)&lt;/td&gt;
+&lt;td&gt;NC [&lt;strong&gt;H/V&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;SE&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;looking-for-group-lfg&#34;&gt;Looking for Group (LFG)&lt;/h2&gt;
+
+&lt;p&gt;LFG Transport is a &lt;em&gt;zero second&lt;/em&gt; cooldown method to travel to a handfull of Zones by &lt;del&gt;abusing&lt;/del&gt; employing the LFG system.  Normally, when a Task / Strike Force is joined the character&amp;rsquo;s group will be transported across Zones to the Force&amp;rsquo;s initial mission contact.  In this case, locking the group size to only 1 member (your character) prompts the player for immediate transport.  Once the character is in the desired Zone no other actions are necessary.&lt;/p&gt;
+
+&lt;p&gt;LFG Transport the best method to directly transport to Cimerora from any location outside of a &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Midnighter_Club&#34; target=&#34;_blank&#34;&gt;Midnighter Club&lt;/a&gt; as Cimerora is not a destination Zone available via the &lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Hero_Accolade_Powers#Long_Range_Teleporter&#34; target=&#34;_blank&#34;&gt;Long Range Teleporter&lt;/a&gt; (LRT) power.&lt;/p&gt;
+
+&lt;p&gt;To utilize LFG Teleport:
+  * Select the LFG tab in the Chat window.
+  * Select the Force with the NPC contact in the destination Zone.
+  * Select &amp;ldquo;Lock the event for your group&amp;rdquo; (a group size of 1).
+  * Select to Queue and Join Event with the option appears.
+  * No other actions are necessary after you arrive at the destination Zone.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Zone&lt;/th&gt;
+&lt;th&gt;Task / Strike Force [Initial Contact]&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Brickstown&#34; target=&#34;_blank&#34;&gt;Brickstown&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Following Countess Crey [Manticore]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Cap_au_Diable&#34; target=&#34;_blank&#34;&gt;Cap Au Diable&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Beast Beneath the Mountain [Virgil Tarikoss] [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Cap_au_Diable&#34; target=&#34;_blank&#34;&gt;Cap Au Diable&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Chasing Fool&amp;rsquo;s Gold [Dr. Aeon]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Cascade_Archipelago&#34; target=&#34;_blank&#34;&gt;Cascade Archipelago&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Legend of Ruladak [Sara Moore]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Chantry&#34; target=&#34;_blank&#34;&gt;Chantry&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Saga of Faathim [Justin Augustine]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Chantry&#34; target=&#34;_blank&#34;&gt;Chantry&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Saga of Lanaru [Faathim the Kind]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Cimerora&#34; target=&#34;_blank&#34;&gt;Cimerora&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Time&amp;rsquo;s Arrow [Imperious]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Croatoa&#34; target=&#34;_blank&#34;&gt;Croatoa&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A Tangled Plot [Katie Hannon]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Firebase_Zulu&#34; target=&#34;_blank&#34;&gt;Firebase Zulu&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Explorers &amp;amp; Exploiters [Dr. Quarterfield]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Founders%27_Falls&#34; target=&#34;_blank&#34;&gt;Founders&amp;rsquo; Falls&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Return of the Reichsman [Dr. Kahn]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Founders%27_Falls&#34; target=&#34;_blank&#34;&gt;Founders&amp;rsquo; Falls&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Soul of the Woodsman [Numia]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Grandville&#34; target=&#34;_blank&#34;&gt;Grandville&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Lord Recluse&amp;rsquo;s Strike Force [Lord Recluse] [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Grandville&#34; target=&#34;_blank&#34;&gt;Grandville&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Thus Spoke the Reichsman [Barracuda]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Independece_Port&#34; target=&#34;_blank&#34;&gt;Independece Port&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;A Clamor for the People [Penelope Yin]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Independece_Port&#34; target=&#34;_blank&#34;&gt;Independece Port&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Ms. Liberty Task Force&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Independece_Port&#34; target=&#34;_blank&#34;&gt;Independece Port&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Sky if Falling [Admiral Sutter]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Rikti_War_Zone&#34; target=&#34;_blank&#34;&gt;Rikti War Zone&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Alpha Strike [&lt;strong&gt;H/V&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Rikti_War_Zone&#34; target=&#34;_blank&#34;&gt;Rikti War Zone&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Lady Grey Task / Strike Force [&lt;strong&gt;H/V&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Rikti_War_Zone&#34; target=&#34;_blank&#34;&gt;Rikti War Zone&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Praetorian Offensive [Tin Mage Mk. II] [&lt;strong&gt;H/V&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Sharkhead_Isle&#34; target=&#34;_blank&#34;&gt;Sharkhead Isle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Fire and the Flames [Mortimer Kal] [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Sharkhead_Isle&#34; target=&#34;_blank&#34;&gt;Sharkhead Isle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Pirates of the Sky [Silver Mantis] [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Sharkhead_Isle&#34; target=&#34;_blank&#34;&gt;Sharkhead Isle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Temple of the Waters [SF Op. Renault] [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Skyway_City&#34; target=&#34;_blank&#34;&gt;Skyway City&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Fall of the Clockwork King [Synapse]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Steel_Canyon&#34; target=&#34;_blank&#34;&gt;Steel Canyon&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Dam Hero [Positron Pt. 2]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Steel_Canyon&#34; target=&#34;_blank&#34;&gt;Steel Canyon&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Rule of Three [Positron Pt. 1]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/St._Martial&#34; target=&#34;_blank&#34;&gt;St. Martial&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Crystal of Serafina [Ice Mistral] [&lt;strong&gt;Red&lt;/strong&gt;]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Striga_Isle&#34; target=&#34;_blank&#34;&gt;Striga Isle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The Kheldian War [Moonfire] &lt;strong&gt;Blue&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Striga_Isle&#34; target=&#34;_blank&#34;&gt;Striga Isle&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;The MegaMech Cometh [Ernesto Hess]&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://hcwiki.cityofheroes.dev/wiki/Talos_Island&#34; target=&#34;_blank&#34;&gt;Talos Island&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;Citadel&amp;rsquo;s Children [Citadel]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mythre LARP</title>
+      <link>https://campfield.github.io/project/mythre_larp/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/project/mythre_larp/</guid>
+      <description>&lt;p&gt;Mythre LARP is a basic &lt;a href=&#34;https://en.wikipedia.org/wiki/Live_action_role-playing_game&#34; target=&#34;_blank&#34;&gt;LARP&lt;/a&gt; designed for simplicity targeted towards younger players (ages 10 - 17). At its core, Mythre is for live-action, dramatic storytelling where the rules are there to help build upon the story.&lt;/p&gt;
+
+&lt;p&gt;Mythre itself consists of the basic rules covering characters playing enchanted races and their special in-game abilities, from magic to combat. There isn&amp;rsquo;t a lot of front and back-matter that is present in other LARP handbooks because this isn&amp;rsquo;t a game designed for 50+ players who need every possible in and out-of-game condition covered.&lt;/p&gt;
 
 &lt;p&gt;The current PDF can be downloaded &lt;a href=&#34;https://github.com/campfield/mythre_larp/blob/master/mythre_handbook.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -153,10 +899,10 @@ code, all while preventing a change in one project from impacting any other proj
     
     <item>
       <title>mimeograph</title>
-      <link>https://campfield.github.io/project/mimeograph.html</link>
+      <link>https://campfield.github.io/project/mimeograph/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/project/mimeograph.html</guid>
+      <guid>https://campfield.github.io/project/mimeograph/</guid>
       <description>&lt;p&gt;mimeograph is an over engineered and poorly documented configuration engine for efficiently managing complex and diverse &lt;a href=&#34;https://www.hashicorp.com/&#34; target=&#34;_blank&#34;&gt;HashiCorp&lt;/a&gt; &lt;a href=&#34;https://www.vagrantup.com/&#34; target=&#34;_blank&#34;&gt;Vagrant&lt;/a&gt; environments.&lt;/p&gt;
 
 &lt;p&gt;At its core mimeograph allows for large portions of Vagrant and instance configurations (e.g., VMs and containers) to be managed in YAML.  Additionally, items such as default values for multiple instances, Vagrant Providers, and Plugins can be similarity managed.&lt;/p&gt;
@@ -169,10 +915,10 @@ code, all while preventing a change in one project from impacting any other proj
     
     <item>
       <title>Resume Writing - From ACK to discard stack: How I learned to stop worrying and hate the resume.</title>
-      <link>https://campfield.github.io/talk/resume_writing.html</link>
+      <link>https://campfield.github.io/talk/resume_writing/</link>
       <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/talk/resume_writing.html</guid>
+      <guid>https://campfield.github.io/talk/resume_writing/</guid>
       <description>&lt;p&gt;There are no perfect resumes, however, there are plenty of horrible resumes.&lt;/p&gt;
 
 &lt;p&gt;Over the years, I&amp;rsquo;ve become a go-to resource for taking friends&amp;rsquo; resumes and
@@ -186,31 +932,6 @@ recycled and scheduling an on-site interview.&lt;/p&gt;
 &lt;p&gt;The talk is interactive with the participants working line-to-line through a sample
 resume of questionable quality to find the plethora of issues that may be
 lurking within their own resumes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Packing up and shipping out for hostile environments: DevOps utilizing Packer and Vagrant.</title>
-      <link>https://campfield.github.io/talk/packer_vagrant.html</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/talk/packer_vagrant.html</guid>
-      <description>&lt;p&gt;Say hello to my friends Vagrant and Packer, the one-two punch combo for those who yearn for a tougher, leaner, and meaner virtual machine provisioning and deployment process. If this honey-badger hybrid from Hashicorp sounds appealing to you, then buckle in as we take you from raw ISO to virtual machine cluster in under 60 minutes.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Serving up virtualization two different ways (with a side of hash tags).</title>
-      <link>https://campfield.github.io/talk/serving_up.html</link>
-      <pubDate>Tue, 06 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/talk/serving_up.html</guid>
-      <description>&lt;p&gt;This talk covers the use and abuse of NFS-Root technologies, combined with Linux Containers (LXC),
-to bring up a virtualization cluster with all the bells and whistles of VMware and OpenStack,
-but without the heavy pricetag, skill investment, while retaining all the benefits of open-source.&lt;/p&gt;
-
-&lt;p&gt;We walk through the basics of NFS-Root, creating and serving custom thin hypervisors
-served via PXE and creating KVM and LXC images to run on our diskless hypervisors.&lt;/p&gt;
 </description>
     </item>
     

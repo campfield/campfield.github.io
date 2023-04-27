@@ -4,7 +4,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/personal/libraries.html</loc>
+      <loc>https://campfield.github.io/personal/libraries/</loc>
       <lastmod>2021-02-26T00:00:00+00:00</lastmod>
     </url>
     
@@ -12,7 +12,15 @@
     
     
     <url>
-      <loc>https://campfield.github.io/personal/about.html</loc>
+      <loc>https://campfield.github.io/personal/lis/</loc>
+      <lastmod>2021-02-26T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/contact/</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
     </url>
     
@@ -20,23 +28,15 @@
     
     
     <url>
-      <loc>https://campfield.github.io/personal/plcs.html</loc>
-      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <loc>https://campfield.github.io/talk/batten_down/</loc>
+      <lastmod>2022-10-04T00:00:00+00:00</lastmod>
     </url>
     
   
     
     
     <url>
-      <loc>https://campfield.github.io/contact.html</loc>
-      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://campfield.github.io/project/tanagra.html</loc>
+      <loc>https://campfield.github.io/project/tanagra/</loc>
       <lastmod>2022-01-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -44,7 +44,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/talk/techronomicon.html</loc>
+      <loc>https://campfield.github.io/talk/techronomicon/</loc>
       <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -52,7 +52,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/talk/designing_conf_mgmt.html</loc>
+      <loc>https://campfield.github.io/talk/designing_conf_mgmt/</loc>
       <lastmod>2018-05-23T00:00:00+00:00</lastmod>
     </url>
     
@@ -60,7 +60,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/project/mythre_larp.html</loc>
+      <loc>https://campfield.github.io/project/cox_travel/</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +68,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/project/mimeograph.html</loc>
+      <loc>https://campfield.github.io/project/mythre_larp/</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
     </url>
     
@@ -76,7 +76,15 @@
     
     
     <url>
-      <loc>https://campfield.github.io/talk/resume_writing.html</loc>
+      <loc>https://campfield.github.io/project/mimeograph/</loc>
+      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/talk/resume_writing/</loc>
       <lastmod>2017-02-07T00:00:00+00:00</lastmod>
     </url>
     
@@ -84,7 +92,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/post.html</loc>
+      <loc>https://campfield.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -92,7 +100,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/publication.html</loc>
+      <loc>https://campfield.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -100,32 +108,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/talk.html</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://campfield.github.io/talk/packer_vagrant.html</loc>
-      <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://campfield.github.io/talk/serving_up.html</loc>
-      <lastmod>2015-01-06T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://campfield.github.io/tags/apa.html</loc>
-      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+      <loc>https://campfield.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -133,42 +116,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags/apa7.html</loc>
-      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://campfield.github.io/tags/bibtex.html</loc>
-      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://campfield.github.io/categories.html</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://campfield.github.io/tags/documents.html</loc>
-      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://campfield.github.io/tags/hashicorp.html</loc>
+      <loc>https://campfield.github.io/tags/city-of-heroes/</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -177,7 +125,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags/larp.html</loc>
+      <loc>https://campfield.github.io/tags/fast-travel/</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -186,8 +134,26 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags/latex.html</loc>
-      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+      <loc>https://campfield.github.io/tags/hashicorp/</loc>
+      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/tags/larp/</loc>
+      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/tags/libraries/</loc>
+      <lastmod>2021-02-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -204,7 +170,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags/mimeograph.html</loc>
+      <loc>https://campfield.github.io/tags/mimeograph/</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -213,7 +179,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags/mythre.html</loc>
+      <loc>https://campfield.github.io/tags/mmorpg/</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -222,8 +188,8 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags/open-source.html</loc>
-      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+      <loc>https://campfield.github.io/tags/mythre/</loc>
+      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -231,7 +197,16 @@
     
     
     <url>
-      <loc>https://campfield.github.io/personal.html</loc>
+      <loc>https://campfield.github.io/tags/open-source/</loc>
+      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+      <loc>https://campfield.github.io/personal/</loc>
       <lastmod>2021-02-26T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -240,7 +215,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/project.html</loc>
+      <loc>https://campfield.github.io/project/</loc>
       <lastmod>2022-01-16T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -249,7 +224,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/publication_types.html</loc>
+      <loc>https://campfield.github.io/publication_types/</loc>
       <priority>0</priority>
     </url>
     
@@ -257,8 +232,8 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags.html</loc>
-      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
+      <loc>https://campfield.github.io/tags/</loc>
+      <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -266,16 +241,7 @@
     
     
     <url>
-      <loc>https://campfield.github.io/tags/tanagra.html</loc>
-      <lastmod>2022-01-16T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-      <loc>https://campfield.github.io/tags/vagrant.html</loc>
+      <loc>https://campfield.github.io/tags/vagrant/</loc>
       <lastmod>2017-02-12T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

@@ -1,32 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Open Source on Michael Campfield | Mythre</title>
-    <link>https://campfield.github.io/tags/open-source.html</link>
-    <description>Recent content in Open Source on Michael Campfield | Mythre</description>
+    <title>Open Source on Michael Campfield | Beyond the Mythre</title>
+    <link>https://campfield.github.io/tags/open-source/</link>
+    <description>Recent content in Open Source on Michael Campfield | Beyond the Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Michael Campfield</copyright>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2023 Michael Campfield</copyright>
+    <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>tanagra</title>
-      <link>https://campfield.github.io/project/tanagra.html</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/project/tanagra.html</guid>
-      <description>tanagra is a bit of personal overengineering (instead of my normal overengineering for other purposes) meant to handle the writing and document organizational needs for my university projects and personal writing needs (go Jags!). This revolves on implementing a standardized hierarchical setup to prevent file sprawl, reduce text duplication and encourage boilerplating, simplify writing patterns, maintain sane configuration options, and easily switch between document formats (e.g., student works and journal articles).</description>
-    </item>
-    
-    <item>
       <title>mimeograph</title>
-      <link>https://campfield.github.io/project/mimeograph.html</link>
+      <link>https://campfield.github.io/project/mimeograph/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/project/mimeograph.html</guid>
+      <guid>https://campfield.github.io/project/mimeograph/</guid>
       <description>mimeograph is an over engineered and poorly documented configuration engine for efficiently managing complex and diverse HashiCorp Vagrant environments.
 At its core mimeograph allows for large portions of Vagrant and instance configurations (e.g., VMs and containers) to be managed in YAML. Additionally, items such as default values for multiple instances, Vagrant Providers, and Plugins can be similarity managed.
 mimeograph configurations are easy to understand, quick to deploy, provide for encapsulated environments, and remove the requirements for detailed understanding of Vagrant configuration files or the Ruby programming language.</description>

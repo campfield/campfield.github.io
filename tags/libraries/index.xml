@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Libraries on Michael Campfield | Beyond the Mythre</title>
+    <link>https://campfield.github.io/tags/libraries/</link>
+    <description>Recent content in Libraries on Michael Campfield | Beyond the Mythre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023 Michael Campfield</copyright>
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://campfield.github.io/tags/libraries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://campfield.github.io/personal/libraries/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/personal/libraries/</guid>
+      <description>Libraries have a beauty all their own transcending woodwork, marble, volumes, and time:
+IE, Dublin: Old College (Long Room), Trinity College, Dublin 
+MA, Boston: Boston College, Bapst Library 
+MA, Boston: Boston Public Library, Central branch 
+MD, Baltimore: George Peabody Library 
+MO, St. Louis: St. Louis Central Library (Carnegie)
+TN, Harriman: Harriman Public Library(Carnegie)
+TN, Nashville: Nashville East Brach Library(Carnegie)
+TN, Nashville: Nashville Main Library</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://campfield.github.io/personal/lis/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/personal/lis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

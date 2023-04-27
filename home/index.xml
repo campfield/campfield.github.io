@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Michael Campfield | Mythre</title>
-    <link>https://campfield.github.io/home.html</link>
-    <description>Recent content in Homes on Michael Campfield | Mythre</description>
+    <title>Homes on Michael Campfield | Beyond the Mythre</title>
+    <link>https://campfield.github.io/home/</link>
+    <description>Recent content in Homes on Michael Campfield | Beyond the Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2023 Michael Campfield</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -14,21 +14,12 @@
     
     <item>
       <title></title>
-      <link>https://campfield.github.io/home/about.html</link>
+      <link>https://campfield.github.io/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/home/about.html</guid>
+      <guid>https://campfield.github.io/home/about/</guid>
       <description>Professional Biography For over twenty years I&amp;rsquo;ve worked as a professional computer scientist with a focus on Linux systems administration. Within systems administration my focus has been infrastructure systems and development of distribution-agnostic configuration management solutions using Puppet, Ansible, virtualization, containers, the HashiCorp suite, and both open-source and vendor-designed technologies.
 I&amp;rsquo;m currently engaged as a Senior Systems Administrator with Leidos, my team working with the Centers for Disease Control and Prevention&amp;rsquo;s (CDC) bioinformatics and high-performance scientific computing (HPC) group.</description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://campfield.github.io/home/talks.html</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/home/talks.html</guid>
-      <description></description>
     </item>
     
   </channel>

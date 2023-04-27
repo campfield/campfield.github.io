@@ -1,65 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Michael Campfield | Mythre</title>
-    <link>https://campfield.github.io/talk.html</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Michael Campfield | Mythre</description>
+    <title>Recent Talks on Michael Campfield | Beyond the Mythre</title>
+    <link>https://campfield.github.io/talk/</link>
+    <description>Recent content in Recent Talks on Michael Campfield | Beyond the Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2023 Michael Campfield</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Stormy Skies Ahead: Batten Down the Hatches with On-Prem.</title>
+      <link>https://campfield.github.io/talk/batten_down/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/talk/batten_down/</guid>
+      <description>The cloud is a game changer, but beyond that well-worn statement, when is it better for you and your customers to also include a half-rack of systems in your office broom closet and the DevOps platform on a PC under your developers&amp;rsquo; desks?</description>
+    </item>
+    
+    <item>
       <title>Tech-ronomicon: Keeping documentation that won&#39;t drive you mad.</title>
-      <link>https://campfield.github.io/talk/techronomicon.html</link>
+      <link>https://campfield.github.io/talk/techronomicon/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/talk/techronomicon.html</guid>
+      <guid>https://campfield.github.io/talk/techronomicon/</guid>
       <description>&amp;ldquo;They just walked out the door and left us with no idea how everything works!&amp;rdquo; Institutional knowledge always exists but relying on it will chip away at your organization&amp;rsquo;s sanity. Some people call it built-in job security. What it really means is: &amp;ldquo;Panicked calls from operations about a NetApp failure while I&amp;rsquo;m at Disney World.&amp;rdquo;
 If your group jokes about how doomed the department would be if some person actually left or wonder exactly why there are binders about Windows NT 4.</description>
     </item>
     
     <item>
       <title>Designing Configuration Management for Friends and Enemies.</title>
-      <link>https://campfield.github.io/talk/designing_conf_mgmt.html</link>
+      <link>https://campfield.github.io/talk/designing_conf_mgmt/</link>
       <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/talk/designing_conf_mgmt.html</guid>
-      <description>The concept of unified configuration management is both a dream but can be both a technical and social nightmare. A myriad of factors play into a system that can usable across teams and organizations. Conflicting project goals, gated release schedules, social dynamics, source design, upstream packages, security requirements, and governing bodies are all potential blockers to large scale integrations and code reuse.
+      <guid>https://campfield.github.io/talk/designing_conf_mgmt/</guid>
+      <description>The concept of unified configuration management is both a dream but can be both a technical and social nightmare. A myriad of factors play into a system that can usable across teams and organizations. Conflicting project goals, gated release schedules, social dynamics, source design, upstream packages, security requirements, and governing bodies are all potential blockers to large scale integration and code reuse.
 Fairchilde is a project engineered to provide both a unified configuration management codebase (Puppet) that encourages code reuse, skill sharing, and multiple levels of oversight and control.</description>
     </item>
     
     <item>
       <title>Resume Writing - From ACK to discard stack: How I learned to stop worrying and hate the resume.</title>
-      <link>https://campfield.github.io/talk/resume_writing.html</link>
+      <link>https://campfield.github.io/talk/resume_writing/</link>
       <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/talk/resume_writing.html</guid>
+      <guid>https://campfield.github.io/talk/resume_writing/</guid>
       <description>There are no perfect resumes, however, there are plenty of horrible resumes.
 Over the years, I&amp;rsquo;ve become a go-to resource for taking friends&amp;rsquo; resumes and covering them with the battle scars of an anal-retentive judge of Oxford commas, mismatched styles, and bewildering capitalization.
 This talk covers the obvious, and not so obvious, errors that I encounter in every resume, including my own, that make an instant difference between it being recycled and scheduling an on-site interview.</description>
-    </item>
-    
-    <item>
-      <title>Packing up and shipping out for hostile environments: DevOps utilizing Packer and Vagrant.</title>
-      <link>https://campfield.github.io/talk/packer_vagrant.html</link>
-      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/talk/packer_vagrant.html</guid>
-      <description>Say hello to my friends Vagrant and Packer, the one-two punch combo for those who yearn for a tougher, leaner, and meaner virtual machine provisioning and deployment process. If this honey-badger hybrid from Hashicorp sounds appealing to you, then buckle in as we take you from raw ISO to virtual machine cluster in under 60 minutes.</description>
-    </item>
-    
-    <item>
-      <title>Serving up virtualization two different ways (with a side of hash tags).</title>
-      <link>https://campfield.github.io/talk/serving_up.html</link>
-      <pubDate>Tue, 06 Jan 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/talk/serving_up.html</guid>
-      <description>This talk covers the use and abuse of NFS-Root technologies, combined with Linux Containers (LXC), to bring up a virtualization cluster with all the bells and whistles of VMware and OpenStack, but without the heavy pricetag, skill investment, while retaining all the benefits of open-source.
-We walk through the basics of NFS-Root, creating and serving custom thin hypervisors served via PXE and creating KVM and LXC images to run on our diskless hypervisors.</description>
     </item>
     
   </channel>

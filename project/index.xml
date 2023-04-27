@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Michael Campfield | Mythre</title>
-    <link>https://campfield.github.io/project.html</link>
-    <description>Recent content in Projects on Michael Campfield | Mythre</description>
+    <title>Projects on Michael Campfield | Beyond the Mythre</title>
+    <link>https://campfield.github.io/project/</link>
+    <description>Recent content in Projects on Michael Campfield | Beyond the Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2023 Michael Campfield</copyright>
     <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/project/index.xml" rel="self" type="application/rss+xml" />
@@ -14,29 +14,39 @@
     
     <item>
       <title>tanagra</title>
-      <link>https://campfield.github.io/project/tanagra.html</link>
+      <link>https://campfield.github.io/project/tanagra/</link>
       <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/project/tanagra.html</guid>
+      <guid>https://campfield.github.io/project/tanagra/</guid>
       <description>tanagra is a bit of personal overengineering (instead of my normal overengineering for other purposes) meant to handle the writing and document organizational needs for my university projects and personal writing needs (go Jags!). This revolves on implementing a standardized hierarchical setup to prevent file sprawl, reduce text duplication and encourage boilerplating, simplify writing patterns, maintain sane configuration options, and easily switch between document formats (e.g., student works and journal articles).</description>
     </item>
     
     <item>
-      <title>Mythre LARP</title>
-      <link>https://campfield.github.io/project/mythre_larp.html</link>
+      <title>City of Heroes and City of Villains Zone Transit Guide</title>
+      <link>https://campfield.github.io/project/cox_travel/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/project/mythre_larp.html</guid>
-      <description>Mythre is a basic LARP designed for simplicity and originally targeted towards younger players (ages 10 - 17). At its core, Mythre is for live-action, dramatic storytelling where the rules are there to help build upon a character but not get in the way of the players actually telling their stories.
-Mythre itself consists of the basic rules covering character&amp;rsquo;s enchanted races and their special in-game abilities, from magic to combat.</description>
+      <guid>https://campfield.github.io/project/cox_travel/</guid>
+      <description>This document is a guide to the City of Heroes / Villains MMORPG Zone-to-Zone travel methods for the Homecoming and Homecoming-like servers. The PDF version can be downloaded from [https://github.com/campfield/cox_travel].
+Methods  Long Range Teleporter  Obtaining the Power  In-Zone &amp;ldquo;Physical&amp;rdquo; Connections Looking for Group (LFG) Tunnel System  Notes:  Characters with Vigilante or Rogue alignments have access to both Paragon City (Hero/Blue) and Rogue Isles (Villain/Red) Zones.</description>
+    </item>
+    
+    <item>
+      <title>Mythre LARP</title>
+      <link>https://campfield.github.io/project/mythre_larp/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/project/mythre_larp/</guid>
+      <description>Mythre LARP is a basic LARP designed for simplicity targeted towards younger players (ages 10 - 17). At its core, Mythre is for live-action, dramatic storytelling where the rules are there to help build upon the story.
+Mythre itself consists of the basic rules covering characters playing enchanted races and their special in-game abilities, from magic to combat. There isn&amp;rsquo;t a lot of front and back-matter that is present in other LARP handbooks because this isn&amp;rsquo;t a game designed for 50+ players who need every possible in and out-of-game condition covered.</description>
     </item>
     
     <item>
       <title>mimeograph</title>
-      <link>https://campfield.github.io/project/mimeograph.html</link>
+      <link>https://campfield.github.io/project/mimeograph/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/project/mimeograph.html</guid>
+      <guid>https://campfield.github.io/project/mimeograph/</guid>
       <description>mimeograph is an over engineered and poorly documented configuration engine for efficiently managing complex and diverse HashiCorp Vagrant environments.
 At its core mimeograph allows for large portions of Vagrant and instance configurations (e.g., VMs and containers) to be managed in YAML. Additionally, items such as default values for multiple instances, Vagrant Providers, and Plugins can be similarity managed.
 mimeograph configurations are easy to understand, quick to deploy, provide for encapsulated environments, and remove the requirements for detailed understanding of Vagrant configuration files or the Ruby programming language.</description>

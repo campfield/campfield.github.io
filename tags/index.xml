@@ -1,122 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Michael Campfield | Mythre</title>
-    <link>https://campfield.github.io/tags.html</link>
-    <description>Recent content in Tags on Michael Campfield | Mythre</description>
+    <title>Tags on Michael Campfield | Beyond the Mythre</title>
+    <link>https://campfield.github.io/tags/</link>
+    <description>Recent content in Tags on Michael Campfield | Beyond the Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2022 Michael Campfield</copyright>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2023 Michael Campfield</copyright>
+    <lastBuildDate>Sun, 12 Feb 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Apa</title>
-      <link>https://campfield.github.io/tags/apa.html</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <title>City of Heroes</title>
+      <link>https://campfield.github.io/tags/city-of-heroes/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/tags/apa.html</guid>
+      <guid>https://campfield.github.io/tags/city-of-heroes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Apa7</title>
-      <link>https://campfield.github.io/tags/apa7.html</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Fast Travel</title>
+      <link>https://campfield.github.io/tags/fast-travel/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/tags/apa7.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bibtex</title>
-      <link>https://campfield.github.io/tags/bibtex.html</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/tags/bibtex.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Documents</title>
-      <link>https://campfield.github.io/tags/documents.html</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/tags/documents.html</guid>
+      <guid>https://campfield.github.io/tags/fast-travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hashicorp</title>
-      <link>https://campfield.github.io/tags/hashicorp.html</link>
+      <link>https://campfield.github.io/tags/hashicorp/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/tags/hashicorp.html</guid>
+      <guid>https://campfield.github.io/tags/hashicorp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Larp</title>
-      <link>https://campfield.github.io/tags/larp.html</link>
+      <link>https://campfield.github.io/tags/larp/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/tags/larp.html</guid>
+      <guid>https://campfield.github.io/tags/larp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Latex</title>
-      <link>https://campfield.github.io/tags/latex.html</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Libraries</title>
+      <link>https://campfield.github.io/tags/libraries/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/tags/latex.html</guid>
+      <guid>https://campfield.github.io/tags/libraries/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mimeograph</title>
-      <link>https://campfield.github.io/tags/mimeograph.html</link>
+      <link>https://campfield.github.io/tags/mimeograph/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/tags/mimeograph.html</guid>
+      <guid>https://campfield.github.io/tags/mimeograph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mmorpg</title>
+      <link>https://campfield.github.io/tags/mmorpg/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://campfield.github.io/tags/mmorpg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mythre</title>
-      <link>https://campfield.github.io/tags/mythre.html</link>
+      <link>https://campfield.github.io/tags/mythre/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/tags/mythre.html</guid>
+      <guid>https://campfield.github.io/tags/mythre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Source</title>
-      <link>https://campfield.github.io/tags/open-source.html</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <link>https://campfield.github.io/tags/open-source/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/tags/open-source.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tanagra</title>
-      <link>https://campfield.github.io/tags/tanagra.html</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://campfield.github.io/tags/tanagra.html</guid>
+      <guid>https://campfield.github.io/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vagrant</title>
-      <link>https://campfield.github.io/tags/vagrant.html</link>
+      <link>https://campfield.github.io/tags/vagrant/</link>
       <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://campfield.github.io/tags/vagrant.html</guid>
+      <guid>https://campfield.github.io/tags/vagrant/</guid>
       <description></description>
     </item>
     
