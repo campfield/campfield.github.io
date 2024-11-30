@@ -6,7 +6,7 @@
     <description>Recent content in Homes on Michael Campfield | Beyond the Mythre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2023 Michael Campfield</copyright>
+    <copyright>&amp;copy; 2024 Michael Campfield</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://campfield.github.io/home/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://campfield.github.io/home/about/</guid>
-      <description>Professional Biography For over twenty years I&amp;rsquo;ve worked as a professional computer scientist with a focus on Linux systems administration. Within systems administration my focus has been infrastructure systems and development of distribution-agnostic configuration management solutions using Puppet, Ansible, virtualization, containers, the HashiCorp suite, and both open-source and vendor-designed technologies.
-I&amp;rsquo;m currently engaged as a Senior Systems Administrator with Leidos, my team working with the Centers for Disease Control and Prevention&amp;rsquo;s (CDC) bioinformatics and high-performance scientific computing (HPC) group.</description>
+      <description>Professional Biography For over twenty years I&amp;rsquo;ve worked as a professional computer scientist with a focus on Linux systems administration. Within systems administration, my focus has been the development of Infrastructure as Code (IaC), DevSecOps, and configuration management solutions supported by in-depth experience with cloud, container, and virtualization toolsets.
+I&amp;rsquo;m currently the DevSecOps principal and a Linux systems administrator with the Department of Energy&amp;rsquo;s (DOE) Office of Scientific and Technical Information.</description>
     </item>
     
   </channel>
